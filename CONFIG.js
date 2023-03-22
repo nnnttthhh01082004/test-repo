@@ -1,12 +1,12 @@
 const CONFIGDATA = {
-  titleHeader: "Hello sister Vũ Quyên, Let's be friends",
+  titleHeader: "Hello Bạn Bảo, Let's be friends",
   descriptionHeader:
-    "Nếu chị thoát ra và không trả lời thì có nghĩa là chị đã ĐỒNG Ý rồi đấy ^^",
+    "Nếu Bạn thoát ra và không trả lời thì có nghĩa là bạn đã ĐỒNG Ý rồi đấy ^^",
   buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn chị vì đã đồng ý",
+  buttonNo: "Không! Bao giờ.",
+  titleModar: "Cảm ơn bạn vì đã đồng ý",
   descriptionModar:
-    'Em biết là chị sẽ đồng ý làm bạn với em mà ^^ </br> Cảm ơn chị đã đồng ý để cho em được làm bạn với chị, :)),<br>Thank sister for being friends with me!! ^^<br>Love,<br>Hùng-Ngyễn Thanh Hùng',
+    'Tao biết là bạn sẽ đồng ý gặp tao đi cafe mà ^^ </br> Cảm ơn mày đã đồng ý để cho tao được rủ mày đi cafe, :)),<br>Hẹn mày cuối tuần  này đi cafe với tao!! ^^<br> Nếu mày không đi đừng gọi tao 2 từ anh em nữa, tao không có người bạ như mầy :))<br> When you okk!!<br>Love,<br>Hùng-Ngyễn Thanh Hùng',
   
   
 };
